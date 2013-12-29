@@ -3,11 +3,11 @@
 !==========新浪微博过滤规则================
 !屏蔽会员推荐
 weibo.com##DIV[id="trustPagelet_recom_member"]
-!屏蔽会员图标
+!会员图标
 weibo.com##IMG[class="ico_member"]
-!屏蔽会员抽大奖
+!会员抽大奖
 weibo.com##DIV[class="tipsinvite"]
-!屏蔽右侧栏活动
+!右侧栏活动
 weibo.com##DIV[id="pl_rightmod_ads35"]
 !右侧栏各种推荐
 weibo.com##DIV[class="W_rightModule2"]
@@ -88,9 +88,12 @@ weibo.com##[feedtype="ad"]
 weibo.com##.popular_buss.S_line1.S_bg1.clearfix
 !精品微博推荐
 weibo.com##DIV[node-type="feed_list_recommend"]
-!我又不在乎好友里谁转发了微博
+!好友里谁转发了微博
 weibo.com##DIV[class="WB_feed_together S_line1 S_bg1"]
-!新浪自己玩的很high，信息流里插入好友推荐
+!信息流里插入好友推荐
 weibo.com##DIV[class="WB_feed_type SW_fun W_no_border S_line2"]
-!新浪自己玩 High 了哈，妈的，屏蔽所有信息卡片
+!信息卡片
 weibo.com##DIV[class^="WB_feed_spec"]
+
+!==========屏蔽Youtube评论================
+youtube.com###watch-discussion
