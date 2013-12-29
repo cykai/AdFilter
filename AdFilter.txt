@@ -86,7 +86,7 @@ weibo.com##DIV[class="W_rightModule"]
 weibo.com##[feedtype="ad"]
 !微博后面跟着的商品推广信息
 weibo.com##.popular_buss.S_line1.S_bg1.clearfix
-1精品微博推荐
+!精品微博推荐
 weibo.com##DIV[node-type="feed_list_recommend"]
 !我又不在乎好友里谁转发了微博
 weibo.com##DIV[class="WB_feed_together S_line1 S_bg1"]
