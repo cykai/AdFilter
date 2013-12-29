@@ -95,5 +95,5 @@ weibo.com##DIV[class="WB_feed_type SW_fun W_no_border S_line2"]
 !信息卡片
 weibo.com##DIV[class^="WB_feed_spec"]
 
-!==========屏蔽Youtube评论================
-youtube.com###watch-discussion
+!==========屏蔽Youtube评论==========
+||googleapis.com^*/widget/render/comments?$domain=youtube.com
