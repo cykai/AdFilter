@@ -1,2 +1,2 @@
-AdFilter
-========
+AdBlock Filter
+==============
