@@ -97,3 +97,7 @@ weibo.com##DIV[class^="WB_feed_spec"]
 
 !==========屏蔽Youtube评论==========
 ||googleapis.com^*/widget/render/comments?$domain=youtube.com
+
+! https://www.theatlantic.com
+www.theatlantic.com##.c-gate__spacing-container
+www.theatlantic.com##.c-gate__shadow
