@@ -1,1 +1,1 @@
-自用的ABP过滤规则
+Adblocker filter
